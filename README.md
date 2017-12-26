@@ -13,5 +13,7 @@ public class Demo {
 * first unordered item
 * second item
 
+---
+
 1. first ordered item
 10. second ordered item
