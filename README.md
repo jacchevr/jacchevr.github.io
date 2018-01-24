@@ -2,8 +2,6 @@
 
 ### _Under Construction_
 
-### Projects
-
 ```
 public class Demo {
 
@@ -14,6 +12,7 @@ public class Demo {
 }
 ```
 
+### Projects
 * first unordered item
 * second item
 
