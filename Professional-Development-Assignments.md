@@ -19,7 +19,7 @@
       + Before the sign in station, I found that a lot of contractors that frequented the office would 
       cut in front of other customers, causing some customers to be there much longer than was necessary.
       
-  ### <u>Qualitative Features</u>
+### <u>Qualitative Features</u>
   
   + When working on a project that has multiples of the same part being made, I tend to create jigs to help 
   expedite the process.
