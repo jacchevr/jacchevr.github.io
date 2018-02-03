@@ -52,4 +52,27 @@ of listening is being able to hear how others are interpreting the world around 
 helps give an additional level of perception that otherwise would be hard to understand, both
 conceptually and literally. Although these are probably not the most effective ways of developing
 a brain, I feel that they are key in how I develop mine.
-  
+
+### <u>Elevator Pitch Assignment</u>
+
+#### What
+Get a great paying job that I enjoy doing.
+
+#### Why
+ To support my family and afford us things that I wasn't able to have growing up.
+
+#### How 
+Work incredibly hard to succeed in the Java Bootcamp and create contacts that can help me in the 
+industry.
+
+#### <u>Elevator Pitch</u>
+
+Hi, my name is Jacques. I'm currently attending the Java, Salesforce, and Android Bootcamp at Deep Dive
+Coding Academy. I'm striving to do well in the hopes of getting a great job that can give my 
+family and I an awesome life. Do you have any tips or recommendations on what I can do to stand
+out when looking for a job?
+
+##### Alternative
+Hi, my name is Jacques. I'm currently attending the Java, Salesforce, and Android Bootcamp at Deep Dive
+Coding Academy. I'm striving to do well in the hopes of getting a great job that can give my 
+family and I an awesome life. Are you currently hiring?
