@@ -21,4 +21,4 @@ public class Demo {
 1. first ordered item
 10. second ordered item
 
-[Go to Page 2](page2.md)
+[Go to Pro Dev Assignments](Professional-Development-Assignments.md)
