@@ -41,15 +41,15 @@
   
 ### <u>How I Develop My Brain</u>
 
-    A few of the ways I try to develop my brain are attention to detail, technical knowledge, and
-    listening. Attention to detail can have such a huge impact on how we see our day to day lives.
-    This can mean a difference of wondering why your doors are hard to open sometimes, and noticing 
-    your wooden doors are harder to open when it's raining because the wood swells. Technical knowledge
-    is just as crucial, especially in this day and age. Staying up to date with new technologies
-    and knowing how to use them is now just as important as any other subject that can
-    be taught in school. Lastly, I feel that one of the biggest things I get out
-    of listening is being able to hear how others are interpreting the world around you. Listening
-    helps give an additional level of perception that otherwise would be hard to understand, both
-    conceptually and literally. Although these are probably not the most effective ways of developing
-    a brain, I feel that they are key in how I develop mine.
+A few of the ways I try to develop my brain are attention to detail, technical knowledge, and
+listening. Attention to detail can have such a huge impact on how we see our day to day lives.
+This can mean a difference of wondering why your doors are hard to open sometimes, and noticing 
+your wooden doors are harder to open when it's raining because the wood swells. Technical knowledge
+is just as crucial, especially in this day and age. Staying up to date with new technologies
+and knowing how to use them is now just as important as any other subject that can
+be taught in school. Lastly, I feel that one of the biggest things I get out
+of listening is being able to hear how others are interpreting the world around you. Listening
+helps give an additional level of perception that otherwise would be hard to understand, both
+conceptually and literally. Although these are probably not the most effective ways of developing
+a brain, I feel that they are key in how I develop mine.
   
