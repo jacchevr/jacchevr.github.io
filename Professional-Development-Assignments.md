@@ -1,5 +1,8 @@
 # Professional Development Assignments
 
+
+[LinkedIn](https://www.linkedin.com/in/jacques-chevrier-434033158)
+
 ## Week 1
 
 ### <u>Quantative Accomplishments</u>
@@ -78,6 +81,7 @@ Coding Academy. I'm striving to do well in the hopes of getting a great job that
 family and I an awesome life. Are you currently hiring?
 
 ## Week 2
+
 
 ### <u>Google Search Assignment</u>
 After looking through the results that Google returned when I searched my name, I figured out a few things.
