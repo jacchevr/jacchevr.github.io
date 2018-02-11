@@ -77,6 +77,8 @@ Hi, my name is Jacques. I'm currently attending the Java, Salesforce, and Androi
 Coding Academy. I'm striving to do well in the hopes of getting a great job that can give my 
 family and I an awesome life. Are you currently hiring?
 
+## Week 2
+
 ### <u>Google Search Assignment</u>
 After looking through the results that Google returned when I searched my name, I figured out a few things.
 
