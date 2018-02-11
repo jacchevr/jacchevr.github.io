@@ -76,3 +76,17 @@ out when looking for a job?
 Hi, my name is Jacques. I'm currently attending the Java, Salesforce, and Android Bootcamp at Deep Dive
 Coding Academy. I'm striving to do well in the hopes of getting a great job that can give my 
 family and I an awesome life. Are you currently hiring?
+
+### <u>Google Search Assignment</u>
+After looking through the results that Google returned when I searched my name, I figured out a few things.
+
++ I apparently have a very VERY common name. Results came back for everything from writers to
+politicians.
+
++ Once I narrowed the scope and added "Albuquerque" to my search, the only time I ever really came up
+was for matters of public record. I.e address, phone number, etc.
+
++ It is scary how much information is gathered on a social media platform like Facebook.
+  + Just before the cohort started, I decided to erase all forms of social media. In the past whenever
+  I looked myself up, I would find dozens upon dozens of pictures in the "Images" search that were
+  pulled directly from my Facebook.
