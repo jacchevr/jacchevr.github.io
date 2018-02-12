@@ -2,6 +2,7 @@
 
 
 [LinkedIn](https://www.linkedin.com/in/jacques-chevrier-434033158)
+[Resume](https://github.com/jacchevr/jacchevr.github.io/blob/master/Jacques'%20Finance%20Resume.docx.pdf)
 
 ## Week 1
 
