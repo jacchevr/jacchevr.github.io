@@ -71,13 +71,13 @@ industry.
 
 #### <u>Elevator Pitch</u>
 
-Hi, my name is Jacques. I'm currently attending the Java, Salesforce, and Android Bootcamp at Deep Dive
+Hi, my name is Jacques. I'm currently attending the Java, SalesForce, and Android Bootcamp at Deep Dive
 Coding Academy. I'm striving to do well in the hopes of getting a great job that can give my 
 family and I an awesome life. Do you have any tips or recommendations on what I can do to stand
 out when looking for a job?
 
 ##### Alternative
-Hi, my name is Jacques. I'm currently attending the Java, Salesforce, and Android Bootcamp at Deep Dive
+Hi, my name is Jacques. I'm currently attending the Java, SalesForce, and Android Bootcamp at Deep Dive
 Coding Academy. I'm striving to do well in the hopes of getting a great job that can give my 
 family and I an awesome life. Are you currently hiring?
 
@@ -97,3 +97,43 @@ was for matters of public record. I.e address, phone number, etc.
   + Just before the cohort started, I decided to erase all forms of social media. In the past whenever
   I looked myself up, I would find dozens upon dozens of pictures in the "Images" search that were
   pulled directly from my Facebook.
+  
+### <u>Sales and Marketing Activity</u>
+
+##### Direct Initiatives
+
++ Meet new people and have a conversation about each other's professions.
++ Invite said people for coffee.
++ Have business cards made and hand them out.
+
+##### Indirect Initiatives
+
++ Host meetups to meet multiple people.
++ Hang my business card on a community business card bulletin.
++ Create tutorials to establish my presence as a Java developer.
+
+## Week 3
+
+### <u>Worth Questions</u>
+
+##### What are internal and external factors keeping you from achieving your goal?
+  
+  + I think that one of the biggest factors that keeps me from achieving goals is myself. I constantly
+  convince myself that I am not worthy of having success, or that I simply was not meant to achieve
+  whatever it is that I am trying to achieve at that moment. Getting over this mental barrier will be 
+  a big (if not the biggest) contributor to my achievement of success.
+  
+##### How do you create value for others?
+
+  + I take pride in highlighting and acknowledging other's positive attributes. I feel that hearing
+  positive things about one's self is a great moral booster and sometimes is all that's needed for 
+  someone to find value within themselves.
+  
+##### Has anyone ever told you that you have potential? Do you believe it? Why? Why not?
+
+  + I have been told a few times throughout my life that I have potential. Be it for my intelligence
+  (really not being egotistical) or my skill in a trade. In the past I always believed the person
+  expressing this and strived to prove them right. I have come to find however, that I usually don't
+  fulfill their expectations of me. Because of this, I've heard the term "disappointed" almost as many
+  times as I've heard "potential." Now I pretty much take both sayings at face value. I don't base 
+  my level of expertise or my ability to accomplish something on somebody else's perception of me.
