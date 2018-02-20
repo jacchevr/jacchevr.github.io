@@ -3,7 +3,7 @@
 
 + [LinkedIn](https://www.linkedin.com/in/jacques-chevrier/)
 + [Resume](https://github.com/jacchevr/jacchevr.github.io/blob/master/Jacques%20Chevrier%20Programming%20Resume.pdf)
-+ [Redirect Page](redirect-page.md)
++ [Redirect Page](https://jacchevr.github.io/redirect-page.html)
 
 ## Week 1
 
